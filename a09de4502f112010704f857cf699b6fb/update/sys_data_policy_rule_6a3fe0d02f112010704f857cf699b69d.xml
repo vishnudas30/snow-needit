@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+    <sys_data_policy_rule action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>description</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_data_policy_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-21 04:44:04</sys_created_on>
+        <sys_data_policy display_value="Sets the Description field to mandatory">a63fe0d02f112010704f857cf699b69b</sys_data_policy>
+        <sys_id>6a3fe0d02f112010704f857cf699b69d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>description</sys_name>
+        <sys_package display_value="Innovate" source="x_64698_innovate">a09de4502f112010704f857cf699b6fb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Innovate">a09de4502f112010704f857cf699b6fb</sys_scope>
+        <sys_update_name>sys_data_policy_rule_6a3fe0d02f112010704f857cf699b69d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-21 04:44:04</sys_updated_on>
+        <table>x_64698_innovate_innovate</table>
+    </sys_data_policy_rule>
+</record_update>
